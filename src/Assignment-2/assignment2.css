@@ -1,0 +1,76 @@
+.container, .content {
+    width: 100%;
+    }
+    .logo {
+        float:left;
+        margin-top:1%;
+        padding: 12px;
+        height:34px;
+    
+    }
+    .form {
+        float: right;
+        margin-top: 30px;
+        margin-right: 1.5em;
+    }
+    header {
+        height: 85px;
+        background:lightskyblue;
+        border: 1px solid black;
+    }
+    nav {
+        text-align: center;
+        margin-top: 100px; 
+        border: 1px solid black;
+        background-color:lightblue;
+        margin-left: -4px;
+        margin-right:-4px;
+    }
+    
+    
+    nav a{
+        margin:5%;
+        
+    }
+    .aside1 {
+        padding-top:10px;
+        float:left;
+        margin-top: 47px;
+        width: 15%;
+        line-height: 2em;
+        height: 490px;
+        border: 1px solid black;
+        background-color: lightblue;
+    }
+    #right-sidebar-menu {
+        width: 16%;
+        position: inline-block;
+        background-color: lightblue;
+        float: right;
+        border: 1px solid black;
+        height: 500px;
+        margin-top: 45px;
+        line-height: 1.5em;
+    }
+    #main-content-section {
+        padding-top: 5px;
+        margin-top: 45px;
+        background-color: lightblue;
+        border:1px solid black;
+        display: inline-block;
+        width:67% ;
+        align-content: center;
+        padding-bottom: 28px;
+        margin-left: 6px;
+    }
+    .post-img{
+        width:15%;
+        padding-left: 115px;
+        padding-bottom: 04px;
+        height: 225px;
+    }
+    footer{
+        margin-top: 4px;
+        border-style: 1px solid black;
+        background-color:lightblue; 
+    }
